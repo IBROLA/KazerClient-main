@@ -14,6 +14,11 @@
 
 ## 事件速览
 
+嚣张的在Bilibili平台发布对Lunar客户端踩一捧一的行为, 并且还使用的是来自CheatBreaker/Lunar团队的客户端代码
+视频发布者UID: 1387502519
+视频链接: https://www.bilibili.com/video/BV1LQpm6pExQ
+
+<img width="1214" height="631" alt="image" src="https://github.com/user-attachments/assets/569fb05a-89c2-4dc8-8849-6fda93002b09" />
 
 
 本项目记录并归档了 **Kazer 客户端** 在发布正式 Release 时，因打包构建脚本配置失误，直接将完整未混淆源代码（Source Code）一并压入发行包的“重大事故现场”。
