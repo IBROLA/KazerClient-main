@@ -18,7 +18,7 @@
 视频发布者UID: 1387502519
 视频链接: https://www.bilibili.com/video/BV1LQpm6pExQ
 
-<img width="1214" height="631" alt="image" src="https://github.com/user-attachments/assets/569fb05a-89c2-4dc8-8849-6fda93002b09" />
+<img width="1214" height="631" alt="image" src="屏幕截图 2026-10-15 004848.png" />
 
 
 本项目记录并归档了 **Kazer 客户端** 在发布正式 Release 时，因打包构建脚本配置失误，直接将完整未混淆源代码（Source Code）一并压入发行包的“重大事故现场”。
