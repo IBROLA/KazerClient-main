@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "kazerclient",
+    "name": "Kazer Client",
+    "description": "Kazer Client 1.8.9 extension for official OptiFine HD U M5",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["Kazer Team"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
