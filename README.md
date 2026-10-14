@@ -19,7 +19,7 @@
 视频链接: https://www.bilibili.com/video/BV1LQpm6pExQ
 
 <img width="1214" height="631" alt="image" src="屏幕截图 2026-10-15 004848.png" />
-
+<img width="2493" height="1437" alt="image" src="屏幕截图 2026-10-15 011021.png" />
 
 本项目记录并归档了 **Kazer 客户端** 在发布正式 Release 时，因打包构建脚本配置失误，直接将完整未混淆源代码（Source Code）一并压入发行包的“重大事故现场”。
 
